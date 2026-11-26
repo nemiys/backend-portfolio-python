@@ -50,8 +50,10 @@ Everything listed here is used in at least one of the projects.
 
 ## About Me
 
-Backend developer building systems end to end: REST APIs, user authentication, message queues and event processing, search systems powered by language models, and containerized deployment.
+Python backend developer who builds data systems, and knows how to analyze them. I work with message queues and streaming (Kafka, Redis Streams), databases (PostgreSQL, MongoDB, Cassandra, Redis), and search powered by language models. On the analysis side, I write advanced SQL, work with pandas and build dashboards in Tableau, from the business question to the recommendation.
 
-I develop with AI, mainly with Claude Code, and I own the review and the testing: every design decision goes through me and has a stated reason, and every change passes automated tests and CI before it lands.
+Alongside the three projects above, my [analytics portfolio](https://github.com/nemiys/data-analytics-portfolio) includes a conversion-funnel analysis in Python, a marketing performance analysis in SQL and an HR dashboard in Tableau.
+
+How I work: every design decision is documented with its reason. Before I decide, I compare alternatives and measure the trade-offs. In the labor-rights system, for example, I compared the retrieval I built against two alternatives and weighed accuracy against cost and response time. I develop with Claude Code, and I own the review and the testing: every change passes automated tests before it is merged.
 
 📫 [LinkedIn](https://www.linkedin.com/in/nemi-yossef-hai) · nemiys@gmail.com
